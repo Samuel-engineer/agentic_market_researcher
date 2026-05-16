@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Outputs
+*.log
+reports/
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,9 @@
+# Web framework
+streamlit==1.57.0
+
+# Agent libraries
+crewai==1.14.4
+crewai-tools==1.14.4
+
+# Utilities
+python-dotenv==1.2.2
